@@ -45,7 +45,6 @@ A **"Yes / Sell"** or **"Yes / Buy"** signal means the full criteria have been m
 | `InpCardCols` | `4` | Number of symbol cards per row — adjust to fit your screen |
 | `InpCorner` | `CORNER_LEFT_UPPER` | Which corner the dashboard anchors to |
 
-```
 
 ## Screen Size Guide (InpCardCols)
 
